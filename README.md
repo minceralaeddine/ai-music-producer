@@ -1,4 +1,4 @@
-# 🤖 Martin AI - Artificial Intelligence Music Composer by Mincer 
+# 🤖 Martin AI - AI Powered Music Composer by Mincer 
 
 ## Build Setup
 
